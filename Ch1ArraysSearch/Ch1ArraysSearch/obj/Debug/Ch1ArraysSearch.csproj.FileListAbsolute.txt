@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\DSA from JavaBook\Ch1ArraysSearch\Ch1ArraysSearch\obj\Debug\Ch1ArraysSearch.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\DSA from JavaBook\Ch1ArraysSearch\Ch1ArraysSearch\obj\Debug\Ch1ArraysSearch.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\DSA from JavaBook\Ch1ArraysSearch\Ch1ArraysSearch\bin\Debug\Ch1ArraysSearch.exe.config
+C:\Users\New Laptop\source\repos\DSA from JavaBook\Ch1ArraysSearch\Ch1ArraysSearch\bin\Debug\Ch1ArraysSearch.exe
+C:\Users\New Laptop\source\repos\DSA from JavaBook\Ch1ArraysSearch\Ch1ArraysSearch\bin\Debug\Ch1ArraysSearch.pdb
+C:\Users\New Laptop\source\repos\DSA from JavaBook\Ch1ArraysSearch\Ch1ArraysSearch\obj\Debug\Ch1ArraysSearch.exe
+C:\Users\New Laptop\source\repos\DSA from JavaBook\Ch1ArraysSearch\Ch1ArraysSearch\obj\Debug\Ch1ArraysSearch.pdb

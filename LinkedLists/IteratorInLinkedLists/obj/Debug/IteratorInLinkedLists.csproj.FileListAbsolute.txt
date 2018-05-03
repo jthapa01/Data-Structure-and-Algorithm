@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\DSA from JavaBook\LinkedLists\IteratorInLinkedLists\bin\Debug\IteratorInLinkedLists.exe.config
+C:\Users\New Laptop\source\repos\DSA from JavaBook\LinkedLists\IteratorInLinkedLists\bin\Debug\IteratorInLinkedLists.exe
+C:\Users\New Laptop\source\repos\DSA from JavaBook\LinkedLists\IteratorInLinkedLists\bin\Debug\IteratorInLinkedLists.pdb
+C:\Users\New Laptop\source\repos\DSA from JavaBook\LinkedLists\IteratorInLinkedLists\obj\Debug\IteratorInLinkedLists.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\DSA from JavaBook\LinkedLists\IteratorInLinkedLists\obj\Debug\IteratorInLinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\DSA from JavaBook\LinkedLists\IteratorInLinkedLists\obj\Debug\IteratorInLinkedLists.exe
+C:\Users\New Laptop\source\repos\DSA from JavaBook\LinkedLists\IteratorInLinkedLists\obj\Debug\IteratorInLinkedLists.pdb

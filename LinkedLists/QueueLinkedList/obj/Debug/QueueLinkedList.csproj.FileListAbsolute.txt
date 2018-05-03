@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\DSA from JavaBook\LinkedLists\QueueLinkedList\bin\Debug\QueueLinkedList.exe.config
+C:\Users\New Laptop\source\repos\DSA from JavaBook\LinkedLists\QueueLinkedList\bin\Debug\QueueLinkedList.exe
+C:\Users\New Laptop\source\repos\DSA from JavaBook\LinkedLists\QueueLinkedList\bin\Debug\QueueLinkedList.pdb
+C:\Users\New Laptop\source\repos\DSA from JavaBook\LinkedLists\QueueLinkedList\obj\Debug\QueueLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\DSA from JavaBook\LinkedLists\QueueLinkedList\obj\Debug\QueueLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\DSA from JavaBook\LinkedLists\QueueLinkedList\obj\Debug\QueueLinkedList.exe
+C:\Users\New Laptop\source\repos\DSA from JavaBook\LinkedLists\QueueLinkedList\obj\Debug\QueueLinkedList.pdb

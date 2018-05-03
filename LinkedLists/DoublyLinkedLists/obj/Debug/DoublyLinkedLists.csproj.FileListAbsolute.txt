@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\DSA from JavaBook\LinkedLists\DoublyLinkedLists\bin\Debug\DoublyLinkedLists.exe.config
+C:\Users\New Laptop\source\repos\DSA from JavaBook\LinkedLists\DoublyLinkedLists\bin\Debug\DoublyLinkedLists.exe
+C:\Users\New Laptop\source\repos\DSA from JavaBook\LinkedLists\DoublyLinkedLists\bin\Debug\DoublyLinkedLists.pdb
+C:\Users\New Laptop\source\repos\DSA from JavaBook\LinkedLists\DoublyLinkedLists\obj\Debug\DoublyLinkedLists.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\DSA from JavaBook\LinkedLists\DoublyLinkedLists\obj\Debug\DoublyLinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\DSA from JavaBook\LinkedLists\DoublyLinkedLists\obj\Debug\DoublyLinkedLists.exe
+C:\Users\New Laptop\source\repos\DSA from JavaBook\LinkedLists\DoublyLinkedLists\obj\Debug\DoublyLinkedLists.pdb

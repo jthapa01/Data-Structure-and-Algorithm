@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\DSA from JavaBook\LinkedLists\StackLinkedList\bin\Debug\StackLinkedList.exe.config
+C:\Users\New Laptop\source\repos\DSA from JavaBook\LinkedLists\StackLinkedList\bin\Debug\StackLinkedList.exe
+C:\Users\New Laptop\source\repos\DSA from JavaBook\LinkedLists\StackLinkedList\bin\Debug\StackLinkedList.pdb
+C:\Users\New Laptop\source\repos\DSA from JavaBook\LinkedLists\StackLinkedList\obj\Debug\StackLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\DSA from JavaBook\LinkedLists\StackLinkedList\obj\Debug\StackLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\DSA from JavaBook\LinkedLists\StackLinkedList\obj\Debug\StackLinkedList.exe
+C:\Users\New Laptop\source\repos\DSA from JavaBook\LinkedLists\StackLinkedList\obj\Debug\StackLinkedList.pdb

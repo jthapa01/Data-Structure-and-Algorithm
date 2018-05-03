@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\DSA from JavaBook\Recursion\Recursion\Anagram\bin\Debug\Anagram.exe.config
+C:\Users\New Laptop\source\repos\DSA from JavaBook\Recursion\Recursion\Anagram\bin\Debug\Anagram.exe
+C:\Users\New Laptop\source\repos\DSA from JavaBook\Recursion\Recursion\Anagram\bin\Debug\Anagram.pdb
+C:\Users\New Laptop\source\repos\DSA from JavaBook\Recursion\Recursion\Anagram\obj\Debug\Anagram.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\DSA from JavaBook\Recursion\Recursion\Anagram\obj\Debug\Anagram.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\DSA from JavaBook\Recursion\Recursion\Anagram\obj\Debug\Anagram.exe
+C:\Users\New Laptop\source\repos\DSA from JavaBook\Recursion\Recursion\Anagram\obj\Debug\Anagram.pdb
