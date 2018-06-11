@@ -6,16 +6,18 @@ using System.Threading.Tasks;
 
 namespace Recursion
 {
-    class Program
+    class TriangularNum
     {
         static void Main(string[] args)
         {
+            //Calculate triangular number
             Console.Write("Enter a number: ");
             int num = GetNumber();
             int sumTriangle = Triangle(num);
             Console.WriteLine($"Triangle = {sumTriangle}");
 
-            Console.Write("Enter a number to calculate factorial: ");
+            //Calculate factorical of any given number
+            Console.Write("\nEnter a number to calculate factorial: ");
             int fac = GetNumber();
             int factorialResult = Factorial(fac);
             Console.WriteLine($"Factorial of a {fac} is: {factorialResult}");
@@ -26,16 +28,16 @@ namespace Recursion
 
         private static int Factorial(int n)
         {
-            if(n == 0)
+            if(n == 0)      //base case
             {
                 return 1;
             }
-            return n * Factorial(n - 1);
+            return n * Factorial(n - 1);        //recursive call
         }
 
         private static int Triangle(int num)
         {
-            Console.WriteLine("Entering: num=" + num);
+            Console.WriteLine("Entering: num=" + num);  //test
             if (num == 1)
             {
                 Console.WriteLine("Returning 1");
